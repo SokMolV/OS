@@ -1,0 +1,16 @@
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\bin\Debug\net5.0\Laba-1.exe
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\bin\Debug\net5.0\Laba-1.deps.json
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\bin\Debug\net5.0\Laba-1.runtimeconfig.json
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\bin\Debug\net5.0\Laba-1.runtimeconfig.dev.json
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\bin\Debug\net5.0\Laba-1.dll
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\bin\Debug\net5.0\ref\Laba-1.dll
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\bin\Debug\net5.0\Laba-1.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\obj\Debug\net5.0\Laba-1.csprojAssemblyReference.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\obj\Debug\net5.0\Laba-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\obj\Debug\net5.0\Laba-1.AssemblyInfoInputs.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\obj\Debug\net5.0\Laba-1.AssemblyInfo.cs
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\obj\Debug\net5.0\Laba-1.csproj.CoreCompileInputs.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\obj\Debug\net5.0\Laba-1.dll
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\obj\Debug\net5.0\ref\Laba-1.dll
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\obj\Debug\net5.0\Laba-1.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-1\obj\Debug\net5.0\Laba-1.genruntimeconfig.cache

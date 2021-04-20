@@ -1,0 +1,21 @@
+E:\Projects\Do\Pract3\Pract3\bin\Debug\Pract3.exe.config
+E:\Projects\Do\Pract3\Pract3\bin\Debug\Pract3.exe
+E:\Projects\Do\Pract3\Pract3\bin\Debug\Pract3.pdb
+E:\Projects\Do\Pract3\Pract3\obj\Debug\Pract3.csprojAssemblyReference.cache
+E:\Projects\Do\Pract3\Pract3\obj\Debug\Pract3.csproj.CoreCompileInputs.cache
+E:\Projects\Do\Pract3\Pract3\obj\Debug\Pract3.exe
+E:\Projects\Do\Pract3\Pract3\obj\Debug\Pract3.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-3\Pract3\bin\Debug\Pract3.exe.config
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-3\Pract3\bin\Debug\Pract3.exe
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-3\Pract3\bin\Debug\Pract3.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-3\Pract3\obj\Debug\Pract3.csprojAssemblyReference.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-3\Pract3\obj\Debug\Pract3.csproj.CoreCompileInputs.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-3\Pract3\obj\Debug\Pract3.exe
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-3\Pract3\obj\Debug\Pract3.pdb
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-3\Pract3\bin\Debug\Pract3.exe.config
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-3\Pract3\bin\Debug\Pract3.exe
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-3\Pract3\bin\Debug\Pract3.pdb
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-3\Pract3\obj\Debug\Pract3.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-3\Pract3\obj\Debug\Pract3.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-3\Pract3\obj\Debug\Pract3.exe
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-3\Pract3\obj\Debug\Pract3.pdb

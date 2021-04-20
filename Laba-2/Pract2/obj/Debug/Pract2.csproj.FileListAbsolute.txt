@@ -1,0 +1,21 @@
+E:\Projects\Do\Pract2\Pract2\bin\Debug\Pract2.exe.config
+E:\Projects\Do\Pract2\Pract2\bin\Debug\Pract2.exe
+E:\Projects\Do\Pract2\Pract2\bin\Debug\Pract2.pdb
+E:\Projects\Do\Pract2\Pract2\obj\Debug\Pract2.csprojAssemblyReference.cache
+E:\Projects\Do\Pract2\Pract2\obj\Debug\Pract2.csproj.CoreCompileInputs.cache
+E:\Projects\Do\Pract2\Pract2\obj\Debug\Pract2.exe
+E:\Projects\Do\Pract2\Pract2\obj\Debug\Pract2.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-2\Pract2\bin\Debug\Pract2.exe.config
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-2\Pract2\bin\Debug\Pract2.exe
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-2\Pract2\bin\Debug\Pract2.pdb
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-2\Pract2\obj\Debug\Pract2.csprojAssemblyReference.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-2\Pract2\obj\Debug\Pract2.csproj.CoreCompileInputs.cache
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-2\Pract2\obj\Debug\Pract2.exe
+D:\Users\My ASUS\Documents\GitHub\Operating-system\Laba-2\Pract2\obj\Debug\Pract2.pdb
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-2\Pract2\bin\Debug\Pract2.exe.config
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-2\Pract2\bin\Debug\Pract2.exe
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-2\Pract2\bin\Debug\Pract2.pdb
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-2\Pract2\obj\Debug\Pract2.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-2\Pract2\obj\Debug\Pract2.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-2\Pract2\obj\Debug\Pract2.exe
+C:\Users\User\Source\Repos\SokMolV\OS\Laba-2\Pract2\obj\Debug\Pract2.pdb
